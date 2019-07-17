@@ -1,45 +1,39 @@
 # Sesión 3: ES6 | Módulo JS
-
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
-
-Es momento de integrar lógica a tus maquetaciones.
-
+El alumno aprenderá a utilizar ES6 y características modernas del lenguaje.
 
 ***
 
 ## Tabla de Contenido
   
-  - **[¿Qué es ECMAScript?](#haz-un-"fork"-del-repositorio)**
-    
-  - **[let/const](#)**
-    
-  - **[Template Strings](#)**
-    - Ejercicio 1
-    
-  - **[Arrow Functions](#)**
-    - Ejercicio 2
-    
-  - **[Default Parameters](#)**
-    - Ejercicio 3
-  
-  - **[REST Parameter](#)**
-    - Ejercicio 4
-    
-  - **[Destructuring](#)**
-    - Ejercicio 5
-    - Reto 1
+¿Qué es ECMAScript?  
 
-  - **[BEDU Travels: Sesión 3](#)**
+let/cons
+- [Ejemplo 1](./Ejemplo-01)
+- [Ejemplo 2](./Ejemplo-02)
+
+Template Strings
+- [Ejemplo 3](./Ejemplo-03)
+
+Arrow Functions
+- [Ejemplo 4](./Ejemplo-04)
+
+Default Parameters
+- [Ejemplo 5](./Ejemplo-05)
+
+Spread Operator
+- [Ejemplo 6](./Ejemplo-06)
+
+Rest Parameter
+- [Ejemplo 7](./Ejemplo-07) 
+
+Destructuring
+ - [Ejemplo 8](./Ejemplo-08)
+ 
+ <hr>
+
+  - **[BEDU Travels: Sesión 3](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-3-es6)**
 
   - **[PREWORK - Siguiente sesión](#prework)**
   
   - **[POSTWORK](#postwork)**
-  
-***
-
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
-
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 

@@ -1,38 +1,62 @@
 # Sesión 2: DOM | Módulo JS
 
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
+Javascript no trabaja solo. Existe una comunicación ehtre tus archivos HTML con la intención de integrarles interactividad.
 
 Es momento de vincular lógica a tus maquetaciones.
-
 
 ***
 
 ## Tabla de Contenido
   
-  - **[DOM (Estructura)](#)**
+  - **[DOM (Document Object Model)](#)**
     
   - **[Estructura de un nodo](#)**
-    - Ejercicio 1
-    - Reto 1
+    - Ejemplo 1
     
-  - **[Seleccion y manipulación de nodos](#)**
-    - Ejercicio 2
-    - Reto 2
-    
-  - **[Eventos, atributos, estilos, clases y creación de elementos de nodos](#)**
-    - Ejercicio 3
-    - Reto 3
-    
-  - **[BEDU Travels: Sesión 2](#)**
+  - **[Selección y manipulación de nodos](#)**  
+
+  - **[.getElementById](#)**
   
-  - **[Prework para la siguiente sesión](#prework)**
-  - **[Postwork](#postwork)**
+  - **[.textContent](#)**
   
+  - **[.innerHTML](#)**
+
+  - **[.querySelector](#)**
+
+  - **[.querySelectorAll](#)**   
+   
+  - **[.querySelectorAll](#)**
+    - Ejemplo 2
+   
+  - **[.addEventListener](#)**
+   
+  - **[.getAttribute](#)** 
+
+  - **[.setAttribute](#)**   
+
+  - **[.style](#)**   
+
+  - **[.style.cssText](#)**   
+    
+  - **[.className](#)**    
+
+  - **[.classList](#)**    
+
+  - **[.createElement](#)**
+
+  - **[.createTextNode](#)**
+
+  - **[.appendChild](#)**
+    
+  - **[.removeChild](#)**  
+      
 ***
 
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
+## DOM (Document Object Model)
 
-La gran bienvenida a Javascript.
 
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 
+
+## Estructura de un nodo
+
+### Ejemplo 1 

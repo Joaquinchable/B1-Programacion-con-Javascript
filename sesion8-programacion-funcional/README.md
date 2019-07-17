@@ -1,40 +1,34 @@
 # Sesión 8: Programación Funcional | Módulo JS
 
-Javascript no trabaja solo. Se comunica constantemente con tus archivos .html con la intención de integrarles interactividad.
-
-Es momento de integrar lógica a tus maquetaciones.
+El alumno dominará el paradigma de la programación funcional para sintetizar, recorrer y controlar el flujo de datos de manera limpia y escalable. 
 
 
 ***
 
-## Tabla de Contenido
+## Tabla de Contenidos
   
-  - **[¿Por qué Javascript? ¿Qué son las variables?](#haz-un-"fork"-del-repositorio)**
-    - Ejercicio 1
-    - Reto 1
+  - **Inmutabilidad de los datos**
+  - **Funciones puras**
+  - **Funciones de alto orden**
+  - **Arquitectura de aplicaciones**
+  - **Usos de Puro vs Impuro**
+ 
+ <hr>
     
-  - **[Condicionales](#alcance-1-dise%C3%B1a-el-arreglo-de-objetos-tours)**
-    - Ejercicio 2
-    - Reto 2
+  - **Películas: Utilizar funciones dentro de un arreglo de objetos]**
+    - [Reto 1](./reto1)
     
-  - **[Ciclos](#alcance-2-crea-una-variable-de-usuario-en-indexjs)**
-    - Ejercicio 3
-    - Reto 3
+  - **Helados: Crear una función que filtre datos utilizando el método de arreglos**
+    - [Reto 2](./reto2)
     
-  - **[Funciones](#alcance-3-crea-una-funci%C3%B3n-buscarToursPorPais)**
-    - Ejercicio 4
-    - Reto 4
+  - **Multiplica cada número dentro de un arreglo por dos**
+    - [Reto 3](./reto3)
     
-  - **[BEDU Travels: Sesión 1](#alcance-4-indica-el-nombre-del-usuario-y-cu%C3%A1ntos-tours-tiene-colombia-col)**
+  - **[BEDU Travels: Sesión 8](https://github.com/mikenieva/B1-Programacion-Con-Javascript-Expert/blob/master/BEDU-Travels.md#sesi%C3%B3n-8-programaci%C3%B3n-funcional)**
   
-  - **[Prework](#prework)**
-  - **[Postwork](#postwork)**
+  - **[Prework]**
+  - **[Postwork]**
   
 ***
 
-## 1. ¿Por qué Javascript? ¿Qué son las variables?
-
-La gran bienvenida a Javascript.
-
-Javascript hoy es uno de los lenguajes de programación más usados en el mundo.
 

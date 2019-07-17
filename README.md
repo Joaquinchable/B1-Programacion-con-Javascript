@@ -1,4 +1,4 @@
-![BEDU](https://i.imgur.com/K4YuvOd.png?1)
+![](https://i.imgur.com/K4YuvOd.png?1)
 
 
 # BEDU: Módulo Javascript
@@ -17,18 +17,22 @@ Tu instructor te dará guía sobre los siguientes pasos.
 
 ***
 
-- **[Sesión 1: Fundamentos de Programación](https://github.com/mikenieva/programacion-js-student/tree/master/sesion1-fundamentos-de-programacion)**
+- **[Sesión 1: Fundamentos de Programación](sesion1-fundamentos-de-programacion/README.md)**
 
-- **[Sesión 2: DOM](https://github.com/mikenieva/programacion-js-student/tree/master/sesion2-dom)**
+- **[Sesión 2: DOM](sesion2-dom/README.md)**
   
-- **[Sesión 3: ES6](https://github.com/mikenieva/programacion-js-student/tree/master/sesion3-es6)**
+- **[Sesión 3: ES6](sesion3-es6/README.md)**
 
-- **[Sesión 4: NodeJS & Arquitectura](https://github.com/mikenieva/programacion-js-student/tree/master/sesion4-algoritmia-basica-y-estructura-de-datos)**
+- **[Sesión 4: NodeJS & Arquitectura](sesion4-nodejs-y-arquitectura-mvc/README.md)**
 
-- **[Sesión 5: JSON & APIs](https://github.com/mikenieva/programacion-js-student/tree/master/sesion5-json-y-apis)**
+- **[Sesión 5: JSON & APIs](sesion5-json-y-apis/README.md)**
 
-- **[Sesión 6: Asincronía](https://github.com/mikenieva/programacion-js-student/tree/master/sesion6-ajax-y-programacion-asincrona)**
+- **[Sesión 6: Asincronía](sesion6-ajax-y-programacion-asincrona/README.md)**
 
-- **[Sesión 7: Programación Orientada a Objetos](https://github.com/mikenieva/programacion-js-student/tree/master/sesion7-programacion-orientada-a-objetos)**
+- **[Sesión 7: Programación Orientada a Objetos](sesion7-programacion-orientada-a-objetos/README.md)**
 
-- **[Sesión 8: Programación Funcional](https://github.com/mikenieva/programacion-js-student/tree/master/sesion8-programacion-funcional)**
+- **[Sesión 8: Programación Funcional](sesion8-programacion-funcional/README.md)**
+
+***
+
+- **[BEDU Travels](BEDU-Travels.md)**
