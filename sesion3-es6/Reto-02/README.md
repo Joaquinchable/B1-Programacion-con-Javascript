@@ -17,14 +17,6 @@ const totalHelados = ["fresa", "menta", "chocomenta"]
 ```
 
 
-### RESPUESTA
-```javascript
-
-const totalFrutas = [...frutas, "pera", "durazno"]
-const totalHelados = [...totalHelados, "fresa", "menta", "chocomenta"]
-```
-
-
 2. Destructura el siguiente objeto.
 
 ```javascript
@@ -39,13 +31,3 @@ var whatsapp = {
   var writtenIn = whatsapp.writtenIn;
 ```
   
-### RESPUESTA 
-```javascript
-  const whatsapp = {
-    createdBy: "Brian Acton",
-    founded: 2009,
-    writtenIn: "Erlang"    
-  };
-  const { createdBy, founded, writtenIn } = whatsapp;
-
-```
