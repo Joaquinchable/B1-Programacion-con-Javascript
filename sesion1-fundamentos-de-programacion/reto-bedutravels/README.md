@@ -263,7 +263,7 @@ searchTours(toursMEX);
 //=>   [{...tour1},{...tour2},{...tour3}]
 ```
 
-Para cerrar el ejercicio, realiza un `console.log()` donde generes un `string` el cual indique el nombre del usuario y cuántos tours tiene México, aprovechando tu función anterior.
+Para cerrar el ejercicio, realiza un `console.log()` donde generes un `string` el cual indique el nombre del tour y cuántos tours tiene México, aprovechando tu función anterior.
 
 ```shell
 console.log(`Hay X tours`)
