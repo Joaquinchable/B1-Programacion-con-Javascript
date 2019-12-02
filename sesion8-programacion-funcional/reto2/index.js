@@ -1,8 +1,12 @@
-   const multiplicarPorDos = (arreglo) => {
-    return arreglo.map((e) => {
-        return e*2
-    })
-}
+const helados = [
+    { sabor: 'vainilla', color: 'amarillo' },
+    { sabor: 'fresa', color: 'rojo' },
+    { sabor: 'chocolate', color: 'café' },
+    { sabor: 'mora', color: 'morado' },
+    { sabor: 'pera', color: 'verde' },
+    { sabor: 'menta', color: 'verde' },
+];
 
-multiplicarPorDos([1,2,3,4,5])
-// => [1,4,6,8,10]
+const saboresFavoritos = helados.filter(helado => helado.color === 'verde');
+
+console.log(saboresFavoritos);
